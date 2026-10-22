@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/degree-payback-logo.png" alt="Degree Payback logo" width="140">
+  <img src="assets/degree payback logo.png" alt="Degree Payback logo" width="140">
 </p>
 
 <h1 align="center">Degree Payback</h1>
